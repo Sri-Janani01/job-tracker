@@ -7,7 +7,7 @@
 [![Flask](https://img.shields.io/badge/Flask-3.0-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-**🔗 Live Demo:** [sri-janani01.github.io/job-tracker](https://sri-janani01.github.io/job-tracker/frontend/index.html)  
+**🔗 Live Demo:** [sri-janani01.github.io/job-tracker][(https://sri-janani01.github.io/job-tracker/frontend/index.html) ](http://127.0.0.1:5500/job-tracker/frontend/index.html) 
 **📁 Repository:** [github.com/Sri-Janani01/job-tracker](https://github.com/Sri-Janani01/job-tracker)
 
 ---
