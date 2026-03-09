@@ -134,6 +134,3 @@ job-tracker/
 
 ---
 
-## 📄 License
-
-MIT — feel free to use and modify.
