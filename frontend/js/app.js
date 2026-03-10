@@ -212,7 +212,7 @@ document.getElementById('modal').addEventListener('click', e => {
 async function editJob(id, e) {
     e && e.stopPropagation();
     try {
-        const res = await fetch(`http://localhost:5000/api/jobs/${id}`);
+        const res = await fetch(`http://localhost:5001/api/jobs/${id}`);
         const j = await res.json();
 
         editingId = id;
