@@ -15,10 +15,10 @@
 
 ## 📸 Preview
 
-> Dashboard with pipeline analytics, response rate stats, and recent activity.  
+> Dashboard with pipeline analytics, response rate stats, and recent activity. 
 > Applications grid with status badges, search, and filtering.
 
-*(Screenshots coming soon)*
+
 
 ---
 
